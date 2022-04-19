@@ -2,10 +2,12 @@ html{
     height: 100%;
 }
 .azul{
-    font-size: arial 70px;
-    font-style: color #0984e3;
+    color:#0984e3;
+    font-size: 50px;
+    font-family: Arial;
 }
 .rojo{
     color: #d63031;
-    font-size: arial 50px;
+    font-size: 50px;
+    font-family: arial;
 }
