@@ -1,1 +1,11 @@
-.azul 
+html{
+    height: 100%;
+}
+.azul{
+    color:#0984e3;
+    font-size: arial 50px;
+}
+.rojo{
+    color: #d63031;
+    font-size: arial 50px;
+}
